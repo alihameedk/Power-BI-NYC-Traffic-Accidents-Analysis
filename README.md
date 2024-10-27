@@ -5,25 +5,10 @@
 
 ## NYC Traffic Accident Analysis
 
-### Data Ingestion:
-Imported NYPD motor vehicle collision data (Jan-Aug 2020) using Power Query, including date, time, location (borough, ZIP, street, lat/lon), vehicles, victims, and contributing factors.
-### Data Modeling:
-Developed star schema with DAX measures and calculated columns to establish relationships and key metrics.
-### Visualizations:
-#### Line Charts:
-Compared monthly accident percentages to identify seasonal patterns.
-####  Heatmaps:
-Analyzed accident frequency by day of week and hour of day to determine peak times.
-#### Bar Charts:
-Identified streets with highest accident reports and their percentage of total accidents.
-#### Pie Charts:
-Highlighted most common contributing factors overall and for fatal accidents.
-#### Business Intelligence:
-Addressed key business questions to uncover trends, high-risk periods, and factors influencing fatal collisions.
-
 # Dashboard's Executive Summary Snapshot (Power BI Service)
 
-
+### Data Ingestion:
+Imported NYPD motor vehicle collision data (Jan-Aug 2020) using Power Query, including date, time, location (borough, ZIP, street, lat/lon), vehicles, victims, and contributing factors.
 
 ![dashboard_snapo](https://private-user-images.githubusercontent.com/79145457/380488627-e7a988cf-028c-45a8-a7b6-531a2c8f0c13.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwMzMyNzgsIm5iZiI6MTczMDAzMjk3OCwicGF0aCI6Ii83OTE0NTQ1Ny8zODA0ODg2MjctZTdhOTg4Y2YtMDI4Yy00NWE4LWE3YjYtNTMxYTJjOGYwYzEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDEyNDI1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4ZmNhMzI0NjVlNzNiYTkwZWZlZDM5MTQyZjcxZDc5NDFlZDlmYzc3NDU5ZjAzY2FmYzBhOGMyODIzYWY4YTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VtO7GODz57ThVHaJqgxMhXKU3_D5mdw4IJN-yeOUVF0)
 
@@ -63,6 +48,20 @@ Addressed key business questions to uncover trends, high-risk periods, and facto
 
  
 ![Dashboard_upload](https://private-user-images.githubusercontent.com/79145457/380496157-838cd65a-f9a6-4d17-83fc-c262cc2506e0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwMzE5ODcsIm5iZiI6MTczMDAzMTY4NywicGF0aCI6Ii83OTE0NTQ1Ny8zODA0OTYxNTctODM4Y2Q2NWEtZjlhNi00ZDE3LTgzZmMtYzI2MmNjMjUwNmUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDEyMjEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5MTg3YjYxZjA3N2NlYmZlNWM1YWIxMmQ1MDVlZGQ4N2E4ZDRlZWU5NTBjN2I4MTEyNjRkMDhjZTA4Zjg5MzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lx5RTDbPxY9UgwFtpvRPVQ0lYH1M818A7W4qZitlItM)
+
+### Data Modeling:
+Developed star schema with DAX measures and calculated columns to establish relationships and key metrics.
+### Visualizations:
+#### Line Charts:
+Compared monthly accident percentages to identify seasonal patterns.
+####  Heatmaps:
+Analyzed accident frequency by day of week and hour of day to determine peak times.
+#### Bar Charts:
+Identified streets with highest accident reports and their percentage of total accidents.
+#### Pie Charts:
+Highlighted most common contributing factors overall and for fatal accidents.
+#### Business Intelligence:
+Addressed key business questions to uncover trends, high-risk periods, and factors influencing fatal collisions.
 
 # NYPD Traffic Accidents Analysis-Dashboard.md.txt
 Displaying # NYPD Traffic Accidents Analysis-Dashboard.md.txt.
